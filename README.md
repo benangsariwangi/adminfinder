@@ -1,1 +1,2 @@
-# adminfinder
+# [Bash]
+# Admin Finder
